@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arihaan
-- 👀 I’m interested in Web App Development and Machine Learning.
-- 🌱 I’m currently learning the Django Web Framework.
+- 👀 I’m interested in Blockchain and Full Stack Development.
+- 🌱 I’m currently learning Next.JS.
 - 💞️ I’m looking to collaborate on anything fun.
 - 📫 How to reach me : <a href="https://www.linkedin.com/in/arihaan-singh-negi-434641218/">Linkedin</href>
 
